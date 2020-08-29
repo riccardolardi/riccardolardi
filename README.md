@@ -3,4 +3,4 @@
 <p>A Basel based Design Studio specializing in planning, conception, design and development of projects in between digital and physical space.</p>
 <p><a href="https://riccardolardi.com">www.riccardolardi.com</a>
 <p><em>Always loved creating, always will.</em></p>
-<br/><span role="img">❤️</span>
+<span role="img">❤️</span>
